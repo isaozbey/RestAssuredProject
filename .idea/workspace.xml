@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeb62890-9db6-4506-aac3-6d64f6119d19" name="Default Changelist" comment="" />
+    <list default="true" id="eeb62890-9db6-4506-aac3-6d64f6119d19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day1/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day1/RestAssured_Method_Chaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day1/SampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SampleTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,24 +24,111 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1gnHiP4nNb9iTmLzr12NQYPByGs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
-    <configuration name="SampleTest.calculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpartanSearch_QueryParam.testSearch">
+    <configuration name="SpartanSearch_QueryParam.testSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RestAssuredProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SampleTest" />
-      <option name="METHOD_NAME" value="calculatorTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day2" />
+      <option name="MAIN_CLASS_NAME" value="day2.SpartanSearch_QueryParam" />
+      <option name="METHOD_NAME" value="testSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTest_Parameters.testingSingleSpartan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day2" />
+      <option name="MAIN_CLASS_NAME" value="day2.SpartanTest_Parameters" />
+      <option name="METHOD_NAME" value="testingSingleSpartan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spartan_Test2.SingleSpartan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day2" />
+      <option name="MAIN_CLASS_NAME" value="day2.Spartan_Test2" />
+      <option name="METHOD_NAME" value="SingleSpartan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipCode_Test.testCityToZip" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day2" />
+      <option name="MAIN_CLASS_NAME" value="day2.ZipCode_Test" />
+      <option name="METHOD_NAME" value="testCityToZip" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipCode_Test.testZipToCity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day2" />
+      <option name="MAIN_CLASS_NAME" value="day2.ZipCode_Test" />
+      <option name="METHOD_NAME" value="testZipToCity" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -39,7 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SampleTest.calculatorTest" />
+        <item itemvalue="JUnit.SpartanSearch_QueryParam.testSearch" />
+        <item itemvalue="JUnit.ZipCode_Test.testCityToZip" />
+        <item itemvalue="JUnit.ZipCode_Test.testZipToCity" />
+        <item itemvalue="JUnit.SpartanTest_Parameters.testingSingleSpartan" />
+        <item itemvalue="JUnit.Spartan_Test2.SingleSpartan" />
       </list>
     </recent_temporary>
   </component>
@@ -57,9 +158,47 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="327" y="497" key="com.intellij.ide.util.TipDialog" timestamp="1598743567156">
+    <state width="1349" height="373" key="GridCell.Tab.0.bottom" timestamp="1598913605737">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1409" height="302" key="GridCell.Tab.0.bottom/-1920.234.1920.1001/0.23.2560.1417@0.23.2560.1417" timestamp="1598828761018" />
+    <state width="1354" height="228" key="GridCell.Tab.0.bottom/-1920.234.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598800029078" />
+    <state width="1409" height="228" key="GridCell.Tab.0.bottom/-1920.234.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1598815647878" />
+    <state width="1349" height="219" key="GridCell.Tab.0.bottom/-3200.557.1280.777/-1920.224.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598842813032" />
+    <state width="1349" height="373" key="GridCell.Tab.0.bottom/-3200.557.1280.777/-1920.383.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598911397049" />
+    <state width="1349" height="373" key="GridCell.Tab.0.bottom/-3200.557.1280.777/-1920.383.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1598913605737" />
+    <state width="1349" height="373" key="GridCell.Tab.0.center" timestamp="1598913605735">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1409" height="302" key="GridCell.Tab.0.center/-1920.234.1920.1001/0.23.2560.1417@0.23.2560.1417" timestamp="1598828761015" />
+    <state width="1354" height="228" key="GridCell.Tab.0.center/-1920.234.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598800029075" />
+    <state width="1409" height="228" key="GridCell.Tab.0.center/-1920.234.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1598815647874" />
+    <state width="1349" height="219" key="GridCell.Tab.0.center/-3200.557.1280.777/-1920.224.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598842813031" />
+    <state width="1349" height="373" key="GridCell.Tab.0.center/-3200.557.1280.777/-1920.383.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598911397046" />
+    <state width="1349" height="373" key="GridCell.Tab.0.center/-3200.557.1280.777/-1920.383.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1598913605735" />
+    <state width="1349" height="373" key="GridCell.Tab.0.left" timestamp="1598913605734">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1409" height="302" key="GridCell.Tab.0.left/-1920.234.1920.1001/0.23.2560.1417@0.23.2560.1417" timestamp="1598828761012" />
+    <state width="1354" height="228" key="GridCell.Tab.0.left/-1920.234.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598800029071" />
+    <state width="1409" height="228" key="GridCell.Tab.0.left/-1920.234.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1598815647872" />
+    <state width="1349" height="219" key="GridCell.Tab.0.left/-3200.557.1280.777/-1920.224.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598842813030" />
+    <state width="1349" height="373" key="GridCell.Tab.0.left/-3200.557.1280.777/-1920.383.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598911397045" />
+    <state width="1349" height="373" key="GridCell.Tab.0.left/-3200.557.1280.777/-1920.383.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1598913605734" />
+    <state width="1349" height="373" key="GridCell.Tab.0.right" timestamp="1598913605735">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1409" height="302" key="GridCell.Tab.0.right/-1920.234.1920.1001/0.23.2560.1417@0.23.2560.1417" timestamp="1598828761016" />
+    <state width="1354" height="228" key="GridCell.Tab.0.right/-1920.234.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598800029078" />
+    <state width="1409" height="228" key="GridCell.Tab.0.right/-1920.234.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1598815647875" />
+    <state width="1349" height="219" key="GridCell.Tab.0.right/-3200.557.1280.777/-1920.224.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598842813031" />
+    <state width="1349" height="373" key="GridCell.Tab.0.right/-3200.557.1280.777/-1920.383.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598911397048" />
+    <state width="1349" height="373" key="GridCell.Tab.0.right/-3200.557.1280.777/-1920.383.1920.1057/0.23.2560.1417@0.23.2560.1417" timestamp="1598913605735" />
+    <state x="327" y="497" key="com.intellij.ide.util.TipDialog" timestamp="1598902241808">
       <screen x="0" y="23" width="2560" height="1361" />
     </state>
     <state x="327" y="497" key="com.intellij.ide.util.TipDialog/-1920.234.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598743567156" />
+    <state x="327" y="497" key="com.intellij.ide.util.TipDialog/-3200.557.1280.777/-1920.224.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598840286605" />
+    <state x="327" y="497" key="com.intellij.ide.util.TipDialog/-3200.557.1280.777/-1920.383.1920.1057/0.23.2560.1361@0.23.2560.1361" timestamp="1598902241808" />
   </component>
 </project>
